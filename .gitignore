@@ -1,6 +1,15 @@
 # Never commit data files
 *.tsv.gz
 *.mtx.gz
+*.h5ad
 
 # OS
 .DS_Store
+
+# environment
+/venv/
+
+# folder
+filtered_feature_bc_matrix/
+
+
